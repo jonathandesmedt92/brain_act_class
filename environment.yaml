@@ -1,0 +1,7 @@
+name: brain_act_class
+channels:
+- defaults
+dependencies:
+- python=3.12.1
+- numpy=2.13
+- pandas=2.2.3
